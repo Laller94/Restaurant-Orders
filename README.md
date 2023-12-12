@@ -52,5 +52,6 @@ The analysis of weekly orders shows the average, minimum, and maximum orders for
 Based on the highest spending customer (order_id 17), there is an opportunity to develop more menu items in the "Italian" category.  
 
 # Category Revenue Analysis:
-Analyzing revenue by category shows that "Italian" cuisine generated the highest revenue, followed by "Asian," "Mexican," and "American" cuisines.
-This analysis provides insights into popular and less popular menu items, high spend orders, order trends over time, and opportunities for menu development in specific cuisines. The focus on revenue by category guides potential areas for further menu expansion.
+Analyzing revenue by category shows that "Italian" cuisine generated the highest revenue, followed by "Asian," "Mexican," and "American" cuisines.  
+This analysis provides insights into popular and less popular menu items, high spend orders, order trends over time, and opportunities for menu development in specific cuisines.  
+The focus on revenue by category guides potential areas for further menu expansion.  
