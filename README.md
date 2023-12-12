@@ -1,13 +1,13 @@
 # Restaurant-Orders
 There were two tables for this dataset:
 
-CREATE TABLE order_details (
-  order_details_id SMALLINT NOT NULL,
-  order_id SMALLINT NOT NULL,
-  order_date DATE,
-  order_time TIME,
-  item_id SMALLINT,
-  PRIMARY KEY (order_details_id));
+CREATE TABLE order_details (  
+  order_details_id SMALLINT NOT NULL,  
+  order_id SMALLINT NOT NULL,  
+  order_date DATE,  
+  order_time TIME,  
+  item_id SMALLINT,  
+  PRIMARY KEY (order_details_id));  
 
 CREATE TABLE menu_items (
   menu_item_id SMALLINT NOT NULL,
