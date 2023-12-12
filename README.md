@@ -14,8 +14,7 @@ CREATE TABLE menu_items (
   item_name VARCHAR(45),
   category VARCHAR(45),
   price DECIMAL(5,2),
-  PRIMARY KEY (menu_item_id)
-  );
+  PRIMARY KEY (menu_item_id));
 
 # The main questions are listed below which I answered using only SQL.
 
